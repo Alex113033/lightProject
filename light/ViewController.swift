@@ -18,9 +18,6 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-//        redLightView.isHidden = true
-//        yellowLightView.isHidden = true
-//        greenLightView.isHidden = true
         
         redLightView.layer.cornerRadius = 60
         yellowLightView.layer.cornerRadius = 60
